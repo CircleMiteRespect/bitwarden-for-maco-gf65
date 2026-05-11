@@ -1,4 +1,4 @@
-# 
+# Enhance Bitwarden for macOS with new Bitwarden for macOS Automation | two-factor-authentication + data-breach-alerts, the #1 automation. Includes two-factor-authentication and
 
 
 
